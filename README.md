@@ -13,11 +13,9 @@
 install python requests module
 
 * if you use system python
-<pre><code>
-pip3 install requests
+<pre><code>pip3 install requests
 </code></pre>
 
 * if you use virtual environments (conda, venv, ...)
-<pre><code>
-pip install requests
+<pre><code>pip install requests
 </code></pre>
